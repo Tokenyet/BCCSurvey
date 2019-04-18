@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/BCCSurvey/static/css/main.63897cad.chunk.css"
   },
   {
-    "revision": "c830f820c66de01186c4a1e2e4a90916",
+    "revision": "777f9468d64a42242166f00ba11e8289",
     "url": "/BCCSurvey/index.html"
   }
 ];
