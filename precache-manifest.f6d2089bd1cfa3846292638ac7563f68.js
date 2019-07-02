@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/BCCSurvey/static/media/pic_action01@3x.b6a9b188.png"
   },
   {
-    "revision": "550214a0f025d0b39fe5",
+    "revision": "873661c981bf8046a8dd",
     "url": "/BCCSurvey/static/css/main.9f118dd9.chunk.css"
   },
   {
@@ -12,16 +12,12 @@ self.__precacheManifest = [
     "url": "/BCCSurvey/static/js/runtime~main.3b6e59a7.js"
   },
   {
-    "revision": "e5be07560e4b9df70426",
-    "url": "/BCCSurvey/static/js/2.ae2357c4.chunk.js"
+    "revision": "a44c1d52c8ddb0126316",
+    "url": "/BCCSurvey/static/js/2.a42f0e6c.chunk.js"
   },
   {
     "revision": "afa3be7ffb5b4f7eff6bcb5599cf8c1e",
     "url": "/BCCSurvey/static/media/r.afa3be7f.png"
-  },
-  {
-    "revision": "1bcb91142c2f4a06ea96db8098d8236f",
-    "url": "/BCCSurvey/static/media/pic_2_indroduction@3x.1bcb9114.png"
   },
   {
     "revision": "207809fd2849a623c93591dc009f005a",
@@ -44,8 +40,12 @@ self.__precacheManifest = [
     "url": "/BCCSurvey/static/media/e.daef4e06.png"
   },
   {
-    "revision": "550214a0f025d0b39fe5",
-    "url": "/BCCSurvey/static/js/main.2170bc7a.chunk.js"
+    "revision": "1bcb91142c2f4a06ea96db8098d8236f",
+    "url": "/BCCSurvey/static/media/pic_2_indroduction@3x.1bcb9114.png"
+  },
+  {
+    "revision": "873661c981bf8046a8dd",
+    "url": "/BCCSurvey/static/js/main.24f3f85a.chunk.js"
   },
   {
     "revision": "ff74d945153e34e7a760a27ec15b7336",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/BCCSurvey/static/media/pic_2_indroduction.96e6da5b.svg"
   },
   {
-    "revision": "76ce69e6f7a017ce1a2657c202ecca28",
+    "revision": "c2f92d6c7c785400cd0ed20c22c3d4e4",
     "url": "/BCCSurvey/index.html"
   }
 ];
